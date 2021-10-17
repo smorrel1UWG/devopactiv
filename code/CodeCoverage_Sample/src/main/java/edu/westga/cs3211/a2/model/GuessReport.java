@@ -1,7 +1,7 @@
 package edu.westga.cs3211.a2.model;
 
 /** The result of checking a guess.
- * 
+ * added doc
  * @author CS 3211
  * @version Fall 2021
  */
